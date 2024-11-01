@@ -41,7 +41,7 @@ export default function Home() {
       backgroundPosition: 'center',
     }}
     >
-      <h1 className="text-[70px]  font-bold mb-6" style={{ color: '#fc9102' }}>Bing Halloween!</h1>
+      <h1 className="text-[70px]  font-bold mb-6" style={{ color: '#fc9102' }}>Bingo Halloween!</h1>
       <div className="flex items-center justify-center w-30 h-30 rounded-lg text-[120px] font-bold" style={{ color: '#9f1e1e' }}>
         {loading ? (
           <div className="loader w-16 h-16 border-4 border-t-4 mb-6 border-blue-500 rounded-full animate-spin"></div>
